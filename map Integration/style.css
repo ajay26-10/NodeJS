@@ -1,0 +1,19 @@
+#itemList{
+    width: 250px;
+    list-style-type: none;
+    border: solid;
+    border-width: 1px;
+    background-color: aquamarine;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+#addItem{
+    width: 450px;
+    border: solid;
+    border-color:burlywood;
+    border-width: 6px;
+}

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+#head {
+    background-color: rgb(148, 170, 241);
+    height: 50px;
+    text-align: center;
+    padding: 0px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#list{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+#cart{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-left: 100px;
+}
