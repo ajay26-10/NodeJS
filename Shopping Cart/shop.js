@@ -22,12 +22,12 @@ function addItem(key,value){
     displayCart(grocery);
 }
 
-document.getElementById"(addItemForm)".addEventListener("submit",(e)=>{
+document.getElementById("g").addEventListener("submit",(e)=>{
     e.preventDefault();
     let key = document.getElementById("itemKey").value;
     let value = document.getElementById("itemVal").value;
     addItem(key,value);
-    document.getElementById("addItemForm").reset();
+    document.getElementById("g").reset();
 });
 
 //display on loading the page
